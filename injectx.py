@@ -2,7 +2,6 @@
 # InjectX Fuzzer v20230331 by @xer0dayz
 # https://sn1persecurity.com
 
-from __future__ import print_function
 from urllib.parse import urlparse
 import urllib.request, sys, os, optparse
 from socket import timeout
